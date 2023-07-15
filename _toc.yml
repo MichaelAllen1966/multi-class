@@ -1,0 +1,7 @@
+format: jb-book
+root: front_page
+parts:
+- caption: Setting up an environment file to run these notebooks
+  chapters:
+  - file: setup
+

@@ -1,0 +1,19 @@
+name: multiclass
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pip
+  - pandas
+  - python=3.10
+  - scikit-learn
+  - scipy
+  - pip:
+    - shap
+    - lightgbm
+    - xgboost
+    
