@@ -4,4 +4,6 @@ parts:
 - caption: Setting up an environment file to run these notebooks
   chapters:
   - file: setup
-
+- caption: Ordinal classification
+  chapters:
+  - file: ordinal/01_descriptive
